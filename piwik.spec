@@ -1,5 +1,4 @@
 %define		php_min_version 5.1.3
-%include	/usr/lib/rpm/macros.php
 Summary:	Open source web analytics
 Name:		piwik
 Version:	1.6
